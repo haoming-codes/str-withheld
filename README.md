@@ -1,5 +1,5 @@
 # Classification with Strategically Withheld Data
-This repo reproduces the paper [Classification with Strategically Withheld Data](https://arxiv.org/abs/2012.10203). The paper appeared in [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) and [IML 2020](https://gradanovic.github.io/incentives_in_ML_icml2020_ws/). This repo requires Python 3.7.
+This repo reproduces the paper [Classification with Strategically Withheld Data](https://arxiv.org/abs/2012.10203). The paper appeared in [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [GAIW 2021](https://preflib.github.io/gaiw2021/) and [IML 2020](https://gradanovic.github.io/incentives_in_ML_icml2020_ws/). This repo requires Python 3.7.
 
 ### Downloading the dataset
 
